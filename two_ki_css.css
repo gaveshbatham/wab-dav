@@ -1,0 +1,42 @@
+
+
+h1{
+    background-color:#bce40b ;
+    color: #000;
+}
+
+.key{
+    font-size: 50px;
+    border: solid 3px;
+    margin: 20px;
+    padding: 50px;
+    padding-left: 150px;
+    border-radius: 25px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsJ0004yxRm6pnCSFhrdFEilsSm_ojOUbs9sdmE5AJfTbrwRDvAHfHlYnkRcUvWMdDAJX_86M4iPI&usqp=CAU&ec=48665701');
+    background-repeat: no-repeat;
+    
+
+}
+
+#one{
+    color: #0b62e4;
+    margin: 20px;
+    border-radius: 25px;
+    /* background-image: url('https://images.app.goo.gl/5zjzMnKfi5c9ATha7'); */
+    background-size: contain;
+}
+#tow{
+    color: #e36634;
+    background-size: cover;
+}
+#three{
+    color: #940be4;
+}
+.image{
+   
+    background-image: url('https://images.app.goo.gl/haoCoLpAsNDxkMiF7');
+    background-image: url('https://styles.redditmedia.com/t5_3ho9ch/styles/profileIcon_174oan1nrbba1.jpg?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=d6a95c08982e0f6633e0656ac5fbb602248d81e1');
+    width: 500px;
+    height: 200px;
+    border: 2px solid;
+}
